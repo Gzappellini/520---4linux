@@ -1,5 +1,5 @@
-Evidentemente, 
-a revolução dos costumes 
-garante a contribuição de um grupo
- importante na determinação 
- dos modos de operação convencionais.
+0- Evidentemente, 
+1- a revolução dos costumes 
+2- garante a contribuição de um grupo
+3- importante na determinação 
+4- dos modos de operação convencionais.
